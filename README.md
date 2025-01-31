@@ -1,7 +1,7 @@
 <h1 align="center">Hey I'm Navya</h1>
 <h3 align="center">web developer</h3>
 
-- 🌱 I’m currently learning **MERN**
+
 
 - 👯 I’m looking to collaborate on **web or app dev projects**
 
